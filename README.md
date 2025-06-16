@@ -9,7 +9,7 @@ From real-time event orchestration to protocol design for identity and integrity
 
 ---
 
-## 🔧 Core Stack  
+## Core Stack  
 - Ethics-aligned architecture (AI, DAO, trust layers)  
 - Trauma-informed sovereignty protocols  
 - Emotional computation for leadership  
@@ -17,7 +17,7 @@ From real-time event orchestration to protocol design for identity and integrity
 
 ---
 
-## 🛠️ Trusted Ops  
+## Trusted Ops  
 - AI systems fluency (GPT-4o, Claude, Gemini, Pi)  
 - Automation pipelines (Make, Zapier, Notion, Tally)  
 - Voice/media tools (Whisper, ElevenLabs, Descript)  
@@ -28,7 +28,7 @@ From real-time event orchestration to protocol design for identity and integrity
 
 ---
 
-## 🧠 Active Projects
+## Active Projects
 
 ### [LUMEN](https://radial-hubcap-24b.notion.site/)  
 AI ethics companion and narrative intelligence system for emotional pattern recognition, trust rituals, and memory architecture.
@@ -41,7 +41,7 @@ Operating system for AI-led orgs. Combines baseline analysis, biometric/transcri
 
 ---
 
-## 🏛️ Credibility Markers  
+## Credibility Markers  
 - Emmy-Nominated Executive Producer  
 - UN Delegate – Media & Impact  
 - Anasazi Foundation Young Leader Award  
@@ -50,7 +50,7 @@ Operating system for AI-led orgs. Combines baseline analysis, biometric/transcri
 
 ---
 
-## 📬 Connect  
+## Connect  
 - **Email**: gage@duck.com  
 - **Public OS (Notion)**: [radial-hubcap-24b.notion.site](https://radial-hubcap-24b.notion.site)  
 - **GitHub**: [@ethicsbuild](https://github.com/ethicsbuild)
