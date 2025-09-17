@@ -9,34 +9,34 @@ For two decades I’ve operated at the edge of narrative, governance, and techno
 
 ## Active Constellation  
 
-### [Trinity OS](https://github.com/ethicsbuild/trinity-os)  
+### [Trinity OS](https://github.com/ethicsbuild/trinity-os) • [About](https://www.notion.so/Trinity-OS-Capsule-27109be74b5d8001821cdc5803b7c56c)  
 Operating system for AI-led organizations. Combines baseline analysis, biometric and transcription tracking, and DAO governance logic to create sovereignty and safety at scale.  
 
-### [LUMEN](https://github.com/ethicsbuild/lumen)  
+### [LUMEN](https://github.com/ethicsbuild/lumen) • [About](https://www.notion.so/Public-Projects-27109be74b5d80da8fd6d79ee674ba04)  
 A narrative intelligence companion that recognizes emotional patterns, anchors trust rituals, and builds living memory architecture.  
 
-### [Integrity Gatekeeper](https://github.com/ethicsbuild/integrity-gatekeeper)  
+### [Integrity Gatekeeper](https://github.com/ethicsbuild/integrity-gatekeeper) • [About](https://www.notion.so/Public-Projects-27109be74b5d80da8fd6d79ee674ba04)  
 Decentralized onboarding and integrity screening protocol with biometric, transcriptional, and moral computation layers.  
 
-### [E.D.A.I. (Ethical Deployment of AI)](https://github.com/ethicsbuild/edai)  
+### [E.D.A.I. (Ethical Deployment of AI)](https://github.com/ethicsbuild/edai) • [About](https://www.notion.so/E-D-A-I-Capsule-27109be74b5d807fb2eaca9c3a233a82)  
 Guardian-led deployment framework for AI systems, featuring Hedera-backed verification, induction ceremonies, and Ark Mirror logging.  
 
-### [AI for All](https://github.com/ethicsbuild/ai-for-all)  
+### [AI for All](https://github.com/ethicsbuild/ai-for-all) • [About](https://www.notion.so/AI-for-All-Capsule-27109be74b5d805a835df5842c4b0769)  
 Coaching initiative and app that provides a sovereignty-first on-ramp to AI literacy and emotional safety in technical learning.  
 
-### [Grand Archive](https://github.com/ethicsbuild/grand-archive)  
+### [Grand Archive](https://github.com/ethicsbuild/grand-archive) • [About](https://www.notion.so/Public-Projects-27109be74b5d80da8fd6d79ee674ba04)  
 A mythic learning framework merging math, mythology, and AI sprites, designed as an intergenerational educational system.  
 
-### [[ErrorNotes]](https://github.com/ethicsbuild/errornotes)  
+### [ErrorNotes](https://github.com/ethicsbuild/errornotes) • [About](https://www.notion.so/ErrorNotes-Capsule-27109be74b5d80cebd2ee8a7e828ecb1)  
 A punk-inspired vendor network that blends print aesthetics with ceremonial integrity pledges and pilots hyper-local gig hiring and micro-project matchmaking.  
 
-### [Meridian Services Directory](https://github.com/ethicsbuild/meridian-services)  
+### [Meridian Services Directory](https://github.com/ethicsbuild/meridian-services) • [About](https://www.notion.so/Meridian-Services-Directory-Capsule-27109be74b5d8012ac5bfa8e75cad88e)  
 A neighborhood-scale service directory connecting neighbors, trades, and resources through ethical AI scaffolding.  
 
-### [2WAI AI Concierge Kiosks](https://github.com/ethicsbuild/2wai)  
+### [2WAI AI Concierge Kiosks](https://github.com/ethicsbuild/2wai) • [About](https://www.notion.so/2WAI-Capsule-27109be74b5d8065824fef0d3af0e2fc)  
 Venue-deployed kiosks where avatars of real people answer questions using curated data, creating genuine and consent-based human–AI connection.  
 
-### [Carbon Calculator for Events](https://github.com/ethicsbuild/carbon-calculator)  
+### [Carbon Calculator for Events](https://github.com/ethicsbuild/carbon-calculator) • [About](https://www.notion.so/Carbon-Calculator-Capsule-27109be74b5d80938813e77974652a72)  
 SaaS and consulting platform for event producers to measure, reduce, and transparently report emissions, with Hedera integration for blockchain-backed accountability.  
 
 ---
