@@ -51,7 +51,7 @@ Operating system for AI-led orgs. Combines baseline analysis, biometric/transcri
 ---
 
 ## Connect  
-- **Email**: gage@duck.com  
+- **Email**: silvermirror@duck.com  
 - **Public OS (Notion)**: [radial-hubcap-24b.notion.site](https://radial-hubcap-24b.notion.site)  
 - **GitHub**: [@ethicsbuild](https://github.com/ethicsbuild)
 
