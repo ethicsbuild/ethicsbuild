@@ -11,22 +11,31 @@ For two decades I’ve operated at the edge of narrative, governance, and techno
 Active Constellation
 	•	Trinity OS
 Operating system for AI-led organizations. Fuses baseline analysis, biometric/transcription tracking, and DAO governance logic for sovereignty and safety at scale.
+
 	•	LUMEN
 Narrative intelligence companion for emotional pattern recognition, trust rituals, and memory architecture.
+
 	•	Integrity Gatekeeper
 Decentralized onboarding and integrity screening protocol with biometric, transcriptional, and moral computation layers.
+
 	•	E.D.A.I. (Ethical Deployment of AI)
 Guardian-led deployment framework for AI systems, with Hedera-backed verification, induction ceremonies, and Ark Mirror logging.
+
 	•	AI for All
 Coaching initiative and app for AI fluency. Provides an accessible, sovereignty-first on-ramp to AI literacy and practice.
+
 	•	Grand Archive
 Myth-informed educational framework blending math, mythology, and AI sprites—designed as an intergenerational learning system.
+
 	•	[ErrorNotes]
 Punk-inspired print network and micro-work platform. Merges gritty aesthetics with integrity pledges while piloting hyper-local gig hiring and micro-project matchmaking.
+
 	•	Meridian Services Directory
 A hyperlocal trust-and-services map connecting neighbors, trades, and resources with ethical AI scaffolding.
+
 	•	2WAI AI Concierge Kiosks
 Real-human avatars powered by AI “brains,” deployed in live venues to create genuine, consent-based human–AI connection.
+
 	•	Carbon Calculator for Events
 SaaS + consulting platform for large-scale producers to measure, reduce, and transparently report emissions—with Hedera integration for blockchain-backed accountability.
 
