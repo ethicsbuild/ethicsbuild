@@ -27,7 +27,7 @@ Coaching initiative and app that provides a sovereignty-first on-ramp to AI lite
 ### [Grand Archive](https://github.com/ethicsbuild/grand-archive)  
 A mythic learning framework merging math, mythology, and AI sprites, designed as an intergenerational educational system.  
 
-### [ErrorNotes](https://github.com/ethicsbuild/errornotes)  
+### [[ErrorNotes]](https://github.com/ethicsbuild/errornotes)  
 A punk-inspired vendor network that blends print aesthetics with ceremonial integrity pledges and pilots hyper-local gig hiring and micro-project matchmaking.  
 
 ### [Meridian Services Directory](https://github.com/ethicsbuild/meridian-services)  
