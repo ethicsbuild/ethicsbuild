@@ -18,7 +18,7 @@ A narrative intelligence companion that recognizes emotional patterns, anchors t
 ### [Integrity Gatekeeper](https://www.notion.so/Public-Projects-27109be74b5d80da8fd6d79ee674ba04)  
 Decentralized onboarding and integrity screening protocol with biometric, transcriptional, and moral computation layers.  
 
-### [E.D.A.I. (Ethical Deployment of AI)(https://www.notion.so/E-D-A-I-Capsule-27109be74b5d807fb2eaca9c3a233a82)  
+### [E.D.A.I. Ethical Deployment of AI](https://www.notion.so/E-D-A-I-Capsule-27109be74b5d807fb2eaca9c3a233a82)  
 Guardian-led deployment framework for AI systems, featuring Hedera-backed verification, induction ceremonies, and Ark Mirror logging.  
 
 ### [AI for All](https://www.notion.so/AI-for-All-Capsule-27109be74b5d805a835df5842c4b0769)  
