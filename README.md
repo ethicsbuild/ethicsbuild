@@ -41,12 +41,12 @@ A long-horizon learning framework merging math, mythology, and AI.
 ## Background
 - Capital Build Project Manager, elevated to Estate Manager, private family, Austin, 2025–2026
 - Founder, AI for All, 2024–present
-- Head of Experience, Hall of Flowers, 2021–2024
+- Head of Experience, Hall of Flowers, 2023–2025
 - Senior Producer, Dreamforce (George P. Johnson), 2023
-- Producer / Technical Director, Oslo Freedom Forum, 2018–2019
-- Co-founder / Executive Director, Mythic Bridge, 2011–2019: free, hands-on filmmaking education for at-risk teenagers; invited as Executive Director to the UN's PVBLIC program three separate years
-- Emmy-nominated Executive Producer. SXSWedu presenter, 2015 and 2016. Anasazi Foundation Young Leader Award, 2014.
-- BA Communications, Marymount Manhattan College, magna cum laude
+- Producer / Technical Director, Oslo Freedom Forum, 2018
+- Co-founder / Executive Director, Mythic Bridge, 2011–2022: free, hands-on filmmaking education for at-risk teenagers; invited as Executive Director to the UN's PVBLIC program three separate years
+- Emmy-nominated Executive Producer ("Killing It With Kindness," New York Emmy, 2015). SXSWedu presenter, 2015 and 2016. Anasazi Foundation Young Leader Award, 2014.
+- BA Communications, Marymount Manhattan College, magna cum laude. The Evergreen State College, Visual and Performing Arts
 
 ## Working tools
 Conflict resolution and coaching trained. Notion, Make, Asana, Slack. Daily working use of Claude, GPT, and Gemini, including Claude Code for automation.
