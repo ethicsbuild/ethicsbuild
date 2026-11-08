@@ -54,7 +54,7 @@ A long-horizon learning framework merging math, mythology, and AI.
 Conflict resolution and coaching trained. Notion, Make, Asana, Slack. Daily working use of Claude, GPT, and Gemini, including Claude Code for automation.
 
 ## Elsewhere
-[About](https://about.woodle.quest) · [Writing](https://words.woodle.quest) · [The receipts](https://ethicsbuild.github.io/Receipts/published/) · [LinkedIn](https://www.linkedin.com/in/gage-cass-woodle-70654612/)
+[About](https://about.woodle.quest) · [Writing](https://words.woodle.quest) · [The receipts](https://ethicsbuild.github.io/Receipts/) · [LinkedIn](https://www.linkedin.com/in/gage-cass-woodle-70654612/)
 
 ## Contact
 gagewoodle@gmail.com
