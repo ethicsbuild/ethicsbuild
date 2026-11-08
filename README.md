@@ -42,7 +42,7 @@ A long-horizon learning framework merging math, mythology, and AI.
 - Capital Build Project Manager, elevated to Estate Manager, private family, Austin, 2025 to 2026
 - Founder, AI for All, 2024 to present
 - Board member, Phoenix Ranches, a trauma-informed ranch program for young people in the justice system (joined as Director, December 2024)
-- Production with Veda, 2025: the All-In Summit in Los Angeles (sponsorship coordinator, then producing 2wai's presence on site), the Planet Home gala in Boston, and BVNK's Stablecoin Arcade at Fintech Nerdcon in Miami
+- Production with VADA, 2025: the All-In Summit in Los Angeles (sponsorship coordinator, then producing 2wai's presence on site), the Planet Home gala in Boston, and BVNK's Stablecoin Arcade at Fintech Nerdcon in Miami
 - Hall of Flowers, 2023 to 2025: lead exhibition coordinator (through BWG Events), then Senior Producer and Director of Exhibitor Operations, then Head of Experience
 - Senior Producer, Dreamforce (George P. Johnson), 2023
 - Producer / Technical Director, Oslo Freedom Forum, 2018
